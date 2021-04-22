@@ -1,0 +1,196 @@
+ p {
+    font-family: "Times New Roman", Times, serif;
+
+  }
+  h1
+  .destination {
+    font-family:  Georgia;
+  }
+  {
+  color: deeppink ;
+  font-size: 30px;
+
+
+}
+  }
+  .title {
+    color: deeppink;
+    font-style:  Georgia;
+
+
+}
+
+
+  }
+
+h2
+  .destination {
+    font-family:  Georgia;
+    font-size: 30px;
+
+
+  }
+  {
+  color: deeppink ;
+  font-size: 30px;
+
+
+}
+  }
+  .title {
+    color: deeppink;
+    font-style:  Georgia;
+    font-size: 30px;
+
+
+
+    }
+  }
+  .uppercase {
+  text-transform: uppercase;
+}
+
+  p{
+    color:black;
+  line-height: 1.3em;
+  text-align: left;
+  width: 100%;
+  font-family: Helvetica;
+  font-size: 15px
+  font-weight: bold
+  word-spacing: 5px;
+  line-height: 1.8;
+  outline-style: outset;
+  outline-color:deeppink
+  
+
+}
+
+h3 {
+  color:deeppink;
+  font-size: 25px;
+}
+.title {
+  color: deeppink;
+  font-size: 25px;
+}
+.uppercase {
+text-transform: uppercase;
+}
+h4 {
+  color:deeppink;
+  font-size: 25px;
+}
+.title {
+  color: deeppink;
+  font-size: 25px;
+}
+.uppercase {
+text-transform: uppercase;
+}
+h5 {
+  color:deeppink;
+  font-size: 25px;
+}
+.title {
+  color: deeppink;
+
+}
+.uppercase {
+text-transform: uppercase;
+}
+h6 {
+  color:deeppink;
+  font-size: 25px;
+}
+.title {
+  color: deeppink;
+
+}
+.uppercase {
+text-transform: uppercase;
+}
+h7 {
+  color:deeppink;
+  font-size: 25px;
+}
+.title {
+  color: deeppink;
+
+}
+.uppercase {
+text-transform: uppercase;
+}
+
+h8 {
+  color:deeppink;
+  font-size: 25px;
+}
+.title {
+  color: deeppink;
+
+}
+.uppercase {
+text-transform: uppercase;
+
+
+}
+
+h9 {
+  color:deeppink;
+  font-size: 25px;
+}
+.title {
+  color: deeppink;
+
+}
+.uppercase {
+text-transform: uppercase;
+}
+
+body {
+  border: 10px dashed black;
+  padding: 25px;
+  background: url(paper.gif);
+  background-repeat: no-repeat;
+  background-origin: content-box;
+  .image {
+  background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Gisele_B%C3%BCndchen_at_the_Fashion_Rio_Inverno_2006.jpg/220px-Gisele_B%C3%BCndchen_at_the_Fashion_Rio_Inverno_2006.jpg");
+  background-size: cover;
+  background-position: right;
+  height: 300px;
+}
+
+
+body {
+  margin: 0;
+}
+
+/* Style the header */
+.header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}

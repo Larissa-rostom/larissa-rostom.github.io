@@ -1,0 +1,150 @@
+body{
+  background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,150,1) 50%, rgba(90,69,252,1) 100%);
+}
+h2{
+  font-family:Arial, Helvetica, sans-serif;
+  color:black;
+  text-transform: uppercase;
+  border:solid;
+  padding-left: 450px;
+  font-size:35px
+}
+#l1{
+  font-size:25px;
+  color:black;
+  font-weight: bold;
+  text-decoration: underline;
+  font-family:Arial, Helvetica, sans-serif;
+}
+#fname{
+  font-size:15px;
+  color:#0000CD;
+  font-weight:bold
+}
+#l2{
+  font-size:25px;
+  color:black;
+  font-weight: bold;
+  text-decoration: underline;
+  font-family:Arial, Helvetica, sans-serif;
+}
+#lname{
+  font-size:15px;
+  color:#0000CD;
+  font-weight:bold
+}
+#l3{
+  font-size:25px;
+  color:black;
+  font-weight: bold;
+  text-decoration: underline;
+  font-family:Arial, Helvetica, sans-serif;
+}
+#birthday{
+  font-size:15px;
+  color:#0000CD;
+  font-weight:bold
+}
+#l4{
+  font-size:25px;
+  color:black;
+  font-weight: bold;
+  text-decoration: underline;
+  font-family:Arial, Helvetica, sans-serif;
+}
+#pays{
+  font-size:15px;
+  color:#0000CD;
+  font-weight:bold
+}
+#genre{
+  font-size:25px;
+  color:black;
+  font-weight: bold;
+  text-decoration: underline;
+  font-family:Arial, Helvetica, sans-serif;
+}
+#male{
+  font-size:15px;
+  color:#0000CD;
+  font-weight:bold
+}
+#female{
+  font-size:15px;
+  color:#0000CD;
+  font-weight:bold
+}
+#others{
+  font-size:15px;
+  color:#0000CD;
+  font-weight:bold
+}
+#infos{
+  font-size:25px;
+  color:black;
+  font-weight: bold;
+  text-decoration: underline;
+  font-family:Arial, Helvetica, sans-serif;
+}
+#FASHION{
+  font-size:15px;
+  color:#0000CD;
+  font-weight:bold
+}
+#FASHION1{
+  font-size:15px;
+  color:#0000CD;
+  font-weight:bold
+}
+#FASHION2{
+  font-size:15px;
+  color:#0000CD;
+  font-weight:bold
+}
+#info1{
+  font-size:25px;
+  color:black;
+  font-weight: bold;
+  text-decoration: underline;
+  font-family:Arial, Helvetica, sans-serif;
+}
+#note{
+  font-size:15px;
+  color:#0000CD;
+  font-weight:bold
+}
+#note1{
+  font-size:15px;
+  color:#0000CD;
+  font-weight:bold
+}
+#note2{
+  font-size:15px;
+  color:#0000CD;
+  font-weight:bold
+}
+#couleur{
+  font-size:25px;
+  color:black;
+  font-weight: bold;
+  text-decoration: underline;
+  font-family:Arial, Helvetica, sans-serif;
+}
+#favcolor{
+  font-size:15px;
+  color:#0000CD;
+  font-weight:bold
+}
+#accro{
+  font-size:25px;
+  color:black;
+  font-weight: bold;
+  text-decoration: underline;
+  font-family:Arial, Helvetica, sans-serif;
+}
+#quantity{
+  font-size:15px;
+  color:#0000CD;
+  font-weight:bold
+}
